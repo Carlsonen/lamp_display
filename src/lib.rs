@@ -1,4 +1,4 @@
-use limage::*;
+use limage::prelude::*;
 
 pub struct RedstoneDisplay {
     img: Limage,
