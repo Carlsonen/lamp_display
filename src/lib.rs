@@ -1,7 +1,6 @@
-
 use limage::*;
 
-struct RedstoneDisplay {
+pub struct RedstoneDisplay {
     img: Limage,
     lamp_texture_on: Limage,
     lamp_texture_off: Limage
